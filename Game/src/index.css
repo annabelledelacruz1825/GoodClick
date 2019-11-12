@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+#navbarPurple{
+  background-color: purple;
+  justify-content: center;
+  text-align: center;
+  width: 100% !important;
+
+}
+#navbarPurpleBottom{
+  background-color: purple;
+  justify-content: center;
+  text-align: center;
+  width: 100% !important;
+  margin-top: 43px;
+
+}
+
+#navbar-text{
+  color: white!important;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+  margin-left: 130px;
+  display: contents;
+
+}
+
+#headerText{
+  padding: 20px;
+}
